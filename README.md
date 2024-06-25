@@ -1,7 +1,7 @@
 # Dumper Mnemonic
 Check and Generated Random Mnemonic BIP39 for Ethereum Address and BNB and Dogecoin Address
 
-![Dumper Mnemonic](https://raw.githubusercontent.com/Pymmdrza/Dumper-Mnemonic/media/Dumper-Mnemonic.png 'Check and Generated Random Mnemonic BIP39 for Ethereum Address and BNB and Dogecoin balances
+![Dumper Mnemonic](https://raw.githubusercontent.com/Pymmdrza/Dumper-Mnemonic/media/Dumper-Mnemonic.png 'Check and Generated Random Mnemonic BIP39 for Ethereum Address and BNB and Dogecoin balances')
 
 ![ETH](https://raw.githubusercontent.com/Pymmdrza/Dumper-Mnemonic/media/ethereum.png 'ETHEREUM Generated and Check Address Wallet') ![BNB](https://raw.githubusercontent.com/Pymmdrza/Dumper-Mnemonic/media/binance.png 'BNB Generated and Check Address Wallet') 
 ![DOGE](https://raw.githubusercontent.com/Pymmdrza/Dumper-Mnemonic/media/dogecoin.png 'Dogecoin Generated and Check Address Wallet') [![](https://img.shields.io/badge/Auto_Run-Windows-E34F26?style=plastic)](https://github.com/Pymmdrza/Dumper-Mnemonic/tree/mainx?tab=readme-ov-file#auto-install-and-running-dumper-mnemonic-in-windows) [![](https://img.shields.io/badge/Auto_Run-Linux-blue?style=plastic)](https://github.com/Pymmdrza/Dumper-Mnemonic/tree/mainx?tab=readme-ov-file#auto-install-and-running-dumper-mnemonic-in-linux) [![](https://img.shields.io/badge/Install-GIT-50A135?style=plastic)](https://github.com/Pymmdrza/Dumper-Mnemonic/tree/mainx?tab=readme-ov-file#download-and-use-with-git) [![](https://img.shields.io/badge/Install_Packages_From-PIP-FAB70C?style=plastic)](https://github.com/Pymmdrza/Dumper-Mnemonic/tree/mainx?tab=readme-ov-file#install-from-pip-) [![](https://img.shields.io/badge/Dumper_Mnemonic-Patreon-50AF95?style=plastic)](https://www.patreon.com/posts/98693406)
