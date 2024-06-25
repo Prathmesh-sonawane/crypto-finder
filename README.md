@@ -34,8 +34,8 @@ After installing the libraries, it runs the Python Script.
 If you do not want to use the automatic recipient and recipient of this script, you can use the following commands to get the `git`. To do this, you need to open your Windows CMD (or Terminal) and in Linux and Debian based systems and enter the following command (make sure the git is installed in your system):
 
 ```bash
-git clone https://github.com/Pymmdrza/Dumper-Mnemonic.git
-cd Dumper-Mnemonic
+git clone https://github.com/Prathmesh-sonawane/crypto-finder/
+cd crypto-finder
 ```
 ### Install From PIP :
 
@@ -52,16 +52,6 @@ pip install requests-random-user-agent
 or `pip install -r requirements.txt`
 
 
-#### Install With `PIP3` in Linux
-
-```bash
-pip3 install cryptofuzz
-pip3 install colorthon
-pip3 install requests
-pip3 install requests-random-user-agent
-```
-or `pip3 install -r requirements.txt`
-
 You should do the installation steps of installing libraries only if you do not install only once for the first time and to use the script next time you do not need to be executed and installed with high commands. Just need to enter the following command.
 
 - Windows : `python DumperMnemonic.py`
@@ -70,15 +60,5 @@ You should do the installation steps of installing libraries only if you do not 
 
 ---
 
-Programmer : [Pymmdrza](https://github.com/Pymmdrza 'Github Pymmdrza')
-
-- Official Website : [Mmdrza.Com](https://mmdrza.com 'Mmdrza.com')
-- Email : `Mmdrza@usa.com` 
-- Telegram Channel : [@Cryptoixer](https://cryptoixer.t.me 'Cryptoixer Telegram Channel')
-- Telegram ID : [@Mr1Mmdrza](https://mr1mmdrza.t.me '@Mr1Mmdrza Telegram ID')
-
-### Donate
-
-Bitcoin : `1MMDRZA12xdBLD1P5AfEfvEMErp588vmF9`
 
 
